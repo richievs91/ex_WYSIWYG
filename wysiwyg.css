@@ -1,0 +1,47 @@
+#images {
+	width: 200px;
+	height: 200px;
+}
+
+#cards-0, #cards-2 {
+	background-color: lightblue;
+}
+
+#cards-1, #cards-3 {
+	background-color: lightyellow;
+}
+
+
+.dotted {
+	border: dotted 10px black;
+}
+
+.cards {
+	display: inline-block;
+	text-align: center;
+	width: 40%;
+	margin-bottom: 2em;
+}
+
+.p {
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
